@@ -142,3 +142,6 @@ cython_debug/
 
 # Django SECRET_KEY
 secrets.json
+
+# MEDIA
+uploads/
