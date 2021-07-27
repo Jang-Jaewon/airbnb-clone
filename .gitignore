@@ -144,4 +144,5 @@ cython_debug/
 secrets.json
 
 # MEDIA
-uploads/
+uploads/ 
+/node_modules/
